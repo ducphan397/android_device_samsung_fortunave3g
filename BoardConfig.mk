@@ -16,5 +16,3 @@ TARGET_RECOVERY_DEVICE_MODULES       := libinit_fortunave3g
 
 # inherit from the proprietary version
 -include vendor/samsung/fortunave3g/BoardConfigVendor.mk
-
-ANDROID_COMPILE_WITH_JACK := false
